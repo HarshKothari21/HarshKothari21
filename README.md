@@ -1,2 +1,2 @@
-# Hk
-Web designing/development ,programmer
+# Harsh Kothari
+Python Developer and Data Scientist
