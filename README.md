@@ -1,5 +1,5 @@
 # Harsh Kothari
-Python Engineer and Data Scientist
+Python Engineer | Data Scientist | Machine Learning
 
 ## Expertise in Python libraries:
 - Pandas | Numpy | MatplotLib | Seaborn | BeautifulSoup
