@@ -2,8 +2,8 @@
 Data Scientist | Machine Learning
 
 ## Expertise in Python libraries:
-- Pandas | Numpy | MatplotLib | Seaborn | BeautifulSoup
-- SkLearn | Keras | TensorFlow
+- Pandas | Numpy | MatplotLib | Seaborn | BeautifulSoup | Plotly
+- SkLearn | Keras | TensorFlow | NLP
 - fbprophet
 - Pandas-Profiling | graphviz | yellowbrick
 - re | Warnings | Pillow
