@@ -1,6 +1,3 @@
-# Harsh Kothari
-Data Scientist | Machine Learning | NLP | Publication Writer
-
 ## Expertise in Python libraries:
 - Pandas | Numpy | MatplotLib | Seaborn | BeautifulSoup | Plotly
 - SkLearn | Keras | TensorFlow | NLP
