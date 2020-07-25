@@ -1,5 +1,5 @@
 # Harsh Kothari
-Data Scientist | Machine Learning
+Data Scientist | Machine Learning | NLP | Publication Writer
 
 ## Expertise in Python libraries:
 - Pandas | Numpy | MatplotLib | Seaborn | BeautifulSoup | Plotly
@@ -8,4 +8,11 @@ Data Scientist | Machine Learning
 - Pandas-Profiling | graphviz | yellowbrick
 - re | Warnings | Pillow
 
-## Worked with Matlab/Octave
+## Tool Skills
+- Matlab/Octave
+- Pyspark
+
+## Topic Skills
+- PCA (Principle Component Analysis)
+- Sentiment Analysis
+- Detect outliers/Anomaly
