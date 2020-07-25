@@ -1,3 +1,5 @@
+Looking to use my Bachelor of Computer Science and project skills to work with Machine learning and Data-Science related solutions at your organization.
+
 ## Expertise in Python libraries:
 - Pandas | Numpy | MatplotLib | Seaborn | BeautifulSoup | Plotly
 - SkLearn | Keras | TensorFlow | NLP
