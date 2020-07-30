@@ -12,6 +12,7 @@ Looking to use my Bachelor of Computer Science and project skills to work with M
 - Pyspark
 
 ## Topic Skills
+- Text Mining
 - PCA (Principle Component Analysis)
 - Sentiment Analysis
 - Detect outliers/Anomaly
