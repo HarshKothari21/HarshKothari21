@@ -5,7 +5,7 @@ Looking to use my Bachelor of Computer Science and project skills to work with M
 - SkLearn | Keras | TensorFlow | NLP
 - fbprophet
 - Pandas-Profiling | graphviz | yellowbrick
-- re | Warnings | Pillow
+- re | Warnings | Pillow | NetworkX
 
 ## Tool Skills
 - Matlab/Octave
