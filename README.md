@@ -8,6 +8,7 @@ Looking to use my Bachelor of Computer Science and project skills to work with M
 - re | Warnings | Pillow | NetworkX
 
 ## Tool Skills
+- PowerBI 
 - Matlab/Octave
 - Pyspark
 
