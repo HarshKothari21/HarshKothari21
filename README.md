@@ -18,3 +18,5 @@ Looking to use my Bachelor of Computer Science and project skills to work with M
 - PCA (Principle Component Analysis)
 - Sentiment Analysis
 - Detect outliers/Anomaly
+
+📬 How to reach me : [Linked In](https://www.linkedin.com/in/harsh-kothari21/)
