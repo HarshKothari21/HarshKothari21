@@ -8,12 +8,14 @@ Looking to use my Bachelor of Computer Science and project skills to work with M
 - re | Warnings | Pillow | NetworkX
 
 ## Tool Skills
+- Twitter API
 - Microsoft Azure
 - PowerBI 
-- Matlab/Octave
+- Excel VBA
 - Pyspark
 
 ## Topic Skills
+- Script Automation
 - Text Mining
 - PCA (Principle Component Analysis)
 - Sentiment Analysis
