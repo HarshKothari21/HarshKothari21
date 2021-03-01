@@ -21,4 +21,4 @@ Looking to use my Bachelor of Computer Science and project skills to work with M
 - Sentiment Analysis
 - Detect outliers/Anomaly
 
-📬 How to reach me : [Linked In](https://www.linkedin.com/in/harsh-kothari21/) | [Medium](https://harshkothari21.medium.com/) | [Portfolio](https://harshkothari21.github.io/) | Skype: HarshKothari21
+📬 How to reach me : [Linked In](https://www.linkedin.com/in/harsh-kothari21/) | [Medium](https://harshkothari21.medium.com/) | [Portfolio](https://harshkothari21.github.io/) | [Upwork](https://www.upwork.com/freelancers/~0170ce0d511d7ceae4) | Skype: HarshKothari21
