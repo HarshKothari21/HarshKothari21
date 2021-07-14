@@ -12,12 +12,22 @@ Looking to use my Bachelor of Computer Science and project skills to work with M
 ## Tool Skills
 - Twitter API
 - Microsoft Azure
+- Azure Boards
+- Dynamics CRM
+- Power Apps
+- Power Automate
+- Tableau
 - PowerBI 
 - Excel VBA
 - Pyspark
 
 ## Topic Skills
 - Script Automation
+- Dashboards/Reports
+- User Research
+- Develop Application in Cloud
+- Modeling
+- SRS/UML
 - Text Mining
 - PCA (Principle Component Analysis)
 - Sentiment Analysis
