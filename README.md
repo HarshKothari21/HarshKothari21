@@ -7,7 +7,7 @@ Looking to use my Bachelor of Computer Science and project skills to work with M
 - Pandas-Profiling | graphviz | yellowbrick
 - re | Warnings | Pillow | NetworkX
 
-*keen to adept at new libraries/technologies*
+*keen to learn new libraries and adapt at new technologies*
 
 ## Tool Skills
 - Twitter API
