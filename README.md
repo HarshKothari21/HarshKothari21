@@ -14,8 +14,8 @@ Looking to use my Bachelor of Computer Science and project skills to work with M
 - Microsoft Azure
 - Azure Boards
 - Dynamics CRM
-- Power Apps
-- Power Automate
+- Azure: Power Apps
+- Azure: Power Automate
 - Tableau
 - PowerBI 
 - Excel VBA
