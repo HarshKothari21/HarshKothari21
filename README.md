@@ -22,6 +22,7 @@ Looking to use my Bachelor of Computer Science and project skills to work with M
 - Pyspark
 
 ## Topic Skills
+- ETL Operations
 - Script Automation
 - Dashboards/Reports
 - User Research
